@@ -21,7 +21,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class Communicator {
     private static  final String TAG = "Communicator";
-    private static final String SERVER_URL = "http://www.aquaterra.al";
+    private static final String SERVER_URL = "http://www.sample.al";
 
     public void loginPost(String username, String password){
 
